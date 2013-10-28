@@ -1,0 +1,19 @@
+{
+    "tests": {
+        // These are just samples!
+        /*
+        "test1": {
+            "email": "nickhs@umich.edu",
+            "added": "27-Oct-2013",
+            "test": "-v 100 -c PAIRING tests/test-4-PAIRING.txt",
+            "output": "output/test-4-PAIRING.txt"
+        },
+
+        "test2": {
+            "email": "nickhs@umich.edu",
+            "added": "22-Oct-2013",
+            "test": "-v 100 -c PAIRING tests/test-8-PAIRING.txt",
+            "output": "output/test-8-PAIRING.txt"
+        } */
+    }
+}
