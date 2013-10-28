@@ -74,3 +74,25 @@ Submit a pull request back to the repository. Pat yourself on the back, you're a
 
     Open a Github issue and we'll look into it right away. Let us know
     what output you got from `run_tests.py` and make sure you're on latest!
+
+4) If you submit or use these test cases are you infringing on the honour code?
+
+    Short answer is probably not.
+
+    Long answer, these are the rules (from Piazza post 970):
+
+        Just to reiterate the groundrules:
+
+        * the code you turn in for grading must be entirely your own, and you should take care to keep it private and not show it to anyone except EECS 281 instructional staff
+
+        * the test cases that you turn in for grading must be your own, but you are welcome to share test cases (with other students you trust to be honest and not claim them as their own and turn them in themselves)
+
+        * you are allowed (and encouraged) to help each other, discuss project specifications, relative merits of alternative solutions, pretty much anything so long as it doesn't get so specific as to details of actual graded project code
+
+        * you are allowed (and encouraged) to discuss and share program output if that helps you to understand or debug your project (both individually or on Piazza)
+
+        * you are allowed (and encouraged) to discuss and share small examples of code to illustrate a general idea, so long as it isn't actual code that will go in your project (both individually or on Piazza)
+
+        - Don Winsor
+
+    The second point being the most salient. It's your call.
